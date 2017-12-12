@@ -1,0 +1,17 @@
+java 12
+spark 30
+hadoop 10
+java 16
+spark 302
+hadoop 101
+java 19
+spark 210
+hadoop 108
+hadoop 88
+java 123
+spark 85
+hadoop 95
+java 76
+java 800
+spark 456
+hadoop 45
